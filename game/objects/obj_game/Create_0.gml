@@ -6,6 +6,7 @@ self.game_id = noone;
 self.game_started = false;
 self.is_creator = false;
 self.hand = [];
+self.cards = [];
 
 // HTTP
 self.get_server_list_request = noone;

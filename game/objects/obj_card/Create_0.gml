@@ -1,4 +1,1 @@
-self._type = noone;
-
-
-
+self.card_type = "BACK";
