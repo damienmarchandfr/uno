@@ -1,0 +1,5 @@
+GET http://localhost:3000/ping
+
+###
+
+GET http://localhost:3000/games

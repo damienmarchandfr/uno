@@ -1,0 +1,9 @@
+{
+	"editor.formatOnSave": true,
+	"npm.packageManager": "yarn",
+	"prettier.requireConfig": true,
+	"files.associations": {
+		"tslint.json": "jsonc"
+	},
+	"compile-hero.disable-compile-files-on-did-save-code": false
+}
