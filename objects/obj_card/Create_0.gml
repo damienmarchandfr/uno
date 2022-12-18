@@ -1,0 +1,4 @@
+self._type = noone;
+
+
+
